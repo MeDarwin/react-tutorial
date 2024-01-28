@@ -2,7 +2,7 @@ import { createBrowserRouter, defer } from "react-router-dom";
 import Index from "./pages/Index";
 import JsonPlaceholder from "./pages/JsonPlaceholder";
 import Pokemon from "./pages/Pokemon";
-import { pokemonApi } from "./services/pokeApi";
+import { pokemonApi } from "./services/pokemonApi";
 import { store } from "./store";
 
 export const router = createBrowserRouter([
