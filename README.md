@@ -1,3 +1,6 @@
+# THIS REPOSITORY IS IN LINK WITH
+[Google Docs](https://docs.google.com/document/d/13HkdSG_WJWX8jAnbvRKhPik_vUQS_h_sDWs98rERouU/edit)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
